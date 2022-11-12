@@ -1,5 +1,5 @@
 # Console-Finances
-I created a Financial Analysis program with JavaScript. This program finds some data and prints it into the console.
+I created a Financial Analysis program with JavaScript. This program calculates some information and prints it into the console.
 
 #### The program calculates each of the following items;
 
